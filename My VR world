@@ -15,7 +15,7 @@
 
           <!--BLUE CAR-->
           </a-entity
-          ply-model="src:improvedblueracecar"
+          ply-model="src:"
           position="0 0 3"
           rotation="-89.836 16.511 42.736"
           scale="1.000 0.865 0.892"
